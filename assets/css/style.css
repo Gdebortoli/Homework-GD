@@ -3,6 +3,7 @@ body {
     font-family: helvetica, Arial, Helvetica, sans-serif;
 }
 
+/* Beginning of Style for Header */
 header {
     padding: 20px;
     background-color: #39a6b2;
@@ -35,12 +36,14 @@ header nav ul li a {
     font-weight: Lighter;
     font-size: 22px;
 }
+/* End of styling for header */
 
 * {
     margin: 0;
     padding: 0;
 }
 
+/* Beginning of styling of footer */
 footer {
     background: #fce138;
     width: 100%;
@@ -63,6 +66,7 @@ footer div {
 footer a {
     color: #024e76
 }
+/* End of styling of footer */
 
 * {
     Margin: 0;
@@ -72,6 +76,7 @@ footer a {
 
 section {
     padding: 60px;
+    display: block;
 }
 
 /* Hero Style Start */
@@ -94,6 +99,7 @@ section {
     bottom: 120px;
     right: 140px;
 }
+
 .hero-form h3 {
     font-size: 24px;
     margin: 0;
@@ -123,7 +129,6 @@ section {
     border: none;
     padding: 10px 20px;
     font-size: 16px;
-   
 }
 
 /* Hero Style End */
