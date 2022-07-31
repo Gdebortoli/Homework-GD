@@ -44,6 +44,7 @@ header nav ul li a {
 }
 
 /* Beginning of styling of footer */
+
 footer {
     background: #fce138;
     width: 100%;
@@ -66,6 +67,7 @@ footer div {
 footer a {
     color: #024e76
 }
+
 /* End of styling of footer */
 
 * {
